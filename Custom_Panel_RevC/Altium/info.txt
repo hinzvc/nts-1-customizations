@@ -1,0 +1,1 @@
+Imported files in Altium Designer 20 using the KiCAD Importer plugin.
